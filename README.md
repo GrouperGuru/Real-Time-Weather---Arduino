@@ -1,4 +1,4 @@
-# Real Time Weather
+# ☀️ 🌦️ Real Time Weather 🌩️ 🌨️
 ## Arduino Nano (ESP32) with GME12864 OLED display
 This app utilizes the OpenWeather API (Free) to pull down current weather conditions for the City of your choice.
 ### OpenWeather (API)
